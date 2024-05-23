@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+PIL
+numpy
+cv2
+torch
+argparse

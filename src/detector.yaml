@@ -1,0 +1,19 @@
+train : train/images
+val : val/images
+
+nc : 12
+names : [
+    "Cotton",
+    "Hemp",
+    "cellulose fiber Others",
+    "Silk",
+    "Wool",
+    "protein fiber Others",
+    "Viscos rayon",
+    "regenerated fiber Others",
+    "Polyester",
+    "Nylon",
+    "Polyurethane",
+    "synthetic fiber Others"
+]
+multi_label : true

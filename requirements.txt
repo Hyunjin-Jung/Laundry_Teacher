@@ -1,6 +1,6 @@
 ultralytics
 streamlit
-PIL
+Pillow
 numpy
 cv2
 torch

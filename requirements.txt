@@ -5,3 +5,4 @@ numpy
 opencv-contrib-python-headless
 torch
 argparse
+lap

@@ -180,10 +180,10 @@ def get_iou(box1, box2):
 
 # model loading
 if 'model' not in st.session_state:
-    st.session_state.model = YOLO('models\\fiber_only.pt')
+    st.session_state.model = YOLO('./models/fiber_only.pt')
     print("model loading complete!")
 if 'model2' not in st.session_state:
-    st.session_state.model2 = YOLO("models\\washing_method_only.pt")
+    st.session_state.model2 = YOLO("./models/washing_method_only.pt")
     print("model2 loading complete!")
 if 'tracker' not in st.session_state:
     args = {

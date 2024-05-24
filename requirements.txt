@@ -1,7 +1,7 @@
 streamlit
 Pillow
 numpy
-opencv-contrib-python-headless
+opencv-python-headless
 torch
 argparse
 ultralytics

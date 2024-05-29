@@ -26,7 +26,9 @@ DuyoungKim|SeongilKim|YeonjuKim|TaewookKim|HyunjinJung|
 
 ## Task
 
+![그림1](https://github.com/Hyunjin-Jung/Laundry_Teacher/assets/67624124/db4a9e99-40ec-42f4-8df7-f28a3819af20)
 
+![그림1](https://github.com/Hyunjin-Jung/Laundry_Teacher/assets/67624124/c77d4a20-0505-48fd-b9c2-6b2c370b0c8a)
 
 ## Dataset
 
@@ -69,13 +71,13 @@ Please follow the following link to change the chrome setting.
 
 ### Analyze Fiber composition
 
-
+![그림1](https://github.com/Hyunjin-Jung/Laundry_Teacher/assets/67624124/c0675007-6b5c-41ec-bc94-e215e0c7dbff)
 
 Selecting the "Fabric Information" mode allows you to find out the fiber composition of the desired clothing item, as well as the washing method and precautions for that fiber.
 
 ### Laundry Grouping
 
-
+![그림1](https://github.com/Hyunjin-Jung/Laundry_Teacher/assets/67624124/b0406ed3-6f03-4102-9f73-6d0a3a62ea8c)
 
 In the "Simultaneous Wash Compatibility" mode, you can input a photo to determine whether the item can be washed together with other clothing items. If there are clothing items that cannot be washed together, they will be indicated with a red box, and the washing instructions for those items will be displayed at the bottom.
 

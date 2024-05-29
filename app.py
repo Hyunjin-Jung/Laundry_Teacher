@@ -1,5 +1,5 @@
 import streamlit as st
-from  camera_input_live import camera_input_live
+from src.camera_input_live import camera_input_live
 from ultralytics import YOLO
 from PIL import Image
 import numpy as np
